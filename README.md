@@ -42,5 +42,3 @@ An intelligent platform designed to help students and professionals navigate the
 - **ChatBot Optimization:** Upgraded the AI Mentor with a modern UI and expanded knowledge base.
 
 ---
-
-*Generated with Meku & Enhanced by Antigravity*
