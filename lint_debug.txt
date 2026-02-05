@@ -1,0 +1,14 @@
+
+> ai-career-guidance-platform@0.0.0 lint
+> eslint .
+
+
+C:\Users\acer\Desktop\New folder (4)\pages\Arcade.tsx
+   9:10  error    'selectedLevel' is assigned a value but never used                                                               @typescript-eslint/no-unused-vars
+  98:6   warning  React Hook useEffect has a missing dependency: 'handleAnswer'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+C:\Users\acer\Desktop\New folder (4)\pages\Community.tsx
+  3:53  error  'Filter' is defined but never used  @typescript-eslint/no-unused-vars
+
+✖ 3 problems (2 errors, 1 warning)
+
