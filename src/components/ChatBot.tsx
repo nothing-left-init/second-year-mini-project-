@@ -33,7 +33,7 @@ const ChatBot = () => {
           'Content-Type': 'application/json',
           'Authorization': `Bearer ${API_KEY}`,
           'HTTP-Referer': 'https://les-studio.com',
-          'X-Title': 'Les Studio - AI Career Mentor'
+          'X-Title': 'Neura Link - AI Career Mentor'
         },
         body: JSON.stringify({
           model: 'openai/gpt-3.5-turbo',

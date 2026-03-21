@@ -29,10 +29,10 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-3">
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-amber-700 text-white font-bold text-sm">
-              LA
+              NL
             </div>
             <span className="heading-display text-lg font-bold text-amber-900">
-              Les Studio
+              Neura Link
             </span>
           </Link>
 

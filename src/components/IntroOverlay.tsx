@@ -6,7 +6,7 @@ interface IntroOverlayProps {
 }
 
 const IntroOverlay: React.FC<IntroOverlayProps> = ({ show }) => {
-  const words = ['Welcome', 'to', 'Les Studio'];
+  const words = ['Welcome', 'to', 'Neura Link'];
 
   return (
     <AnimatePresence>

@@ -9,10 +9,10 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-3 mb-6">
               <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-amber-700">
-                <span className="text-sm font-bold text-white">LA</span>
+                <span className="text-sm font-bold text-white">NL</span>
               </div>
               <span className="heading-display text-lg font-bold text-amber-900">
-                Les Studio
+                Neura Link
               </span>
             </div>
             <p className="mb-6 max-w-md text-slate-600 leading-relaxed">
@@ -56,7 +56,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-12 border-t border-amber-100 pt-8 text-center text-sm text-slate-600">
-          <p>&copy; 2026 Les Studio. All rights reserved.</p>
+          <p>&copy; 2026 Neura Link. All rights reserved.</p>
         </div>
       </div>
     </footer>
